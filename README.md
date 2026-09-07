@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/saipattnaik24cse-alt/leetcode/tree/master/0042-trapping-rain-water) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/saipattnaik24cse-alt/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/saipattnaik24cse-alt/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0217-contains-duplicate](https://github.com/saipattnaik24cse-alt/leetcode/tree/master/0217-contains-duplicate) |
@@ -15,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/saipattnaik24cse-alt/leetcode/tree/master/0042-trapping-rain-water) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/saipattnaik24cse-alt/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Hash Table
 |  |
@@ -33,9 +35,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/saipattnaik24cse-alt/leetcode/tree/master/0042-trapping-rain-water) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/saipattnaik24cse-alt/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Binary Search
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/saipattnaik24cse-alt/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+## Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/saipattnaik24cse-alt/leetcode/tree/master/0042-trapping-rain-water) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/saipattnaik24cse-alt/leetcode/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
