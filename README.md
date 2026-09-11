@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0217-contains-duplicate](https://github.com/saipattnaik24cse-alt/leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/saipattnaik24cse-alt/leetcode/tree/master/0242-valid-anagram) |
+| [0567-permutation-in-string](https://github.com/saipattnaik24cse-alt/leetcode/tree/master/0567-permutation-in-string) |
 ## Sorting
 |  |
 | ------- |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/saipattnaik24cse-alt/leetcode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/saipattnaik24cse-alt/leetcode/tree/master/0242-valid-anagram) |
 | [0392-is-subsequence](https://github.com/saipattnaik24cse-alt/leetcode/tree/master/0392-is-subsequence) |
+| [0567-permutation-in-string](https://github.com/saipattnaik24cse-alt/leetcode/tree/master/0567-permutation-in-string) |
 ## Two Pointers
 |  |
 | ------- |
@@ -55,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/saipattnaik24cse-alt/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/saipattnaik24cse-alt/leetcode/tree/master/0283-move-zeroes) |
 | [0392-is-subsequence](https://github.com/saipattnaik24cse-alt/leetcode/tree/master/0392-is-subsequence) |
+| [0567-permutation-in-string](https://github.com/saipattnaik24cse-alt/leetcode/tree/master/0567-permutation-in-string) |
 ## Binary Search
 |  |
 | ------- |
@@ -91,5 +94,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0567-permutation-in-string](https://github.com/saipattnaik24cse-alt/leetcode/tree/master/0567-permutation-in-string) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/saipattnaik24cse-alt/leetcode/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 <!---LeetCode Topics End-->
