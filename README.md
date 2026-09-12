@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/saipattnaik24cse-alt/leetcode/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/saipattnaik24cse-alt/leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/saipattnaik24cse-alt/leetcode/tree/master/0242-valid-anagram) |
+| [0383-ransom-note](https://github.com/saipattnaik24cse-alt/leetcode/tree/master/0383-ransom-note) |
 | [0525-contiguous-array](https://github.com/saipattnaik24cse-alt/leetcode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/saipattnaik24cse-alt/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/saipattnaik24cse-alt/leetcode/tree/master/0567-permutation-in-string) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0125-valid-palindrome](https://github.com/saipattnaik24cse-alt/leetcode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/saipattnaik24cse-alt/leetcode/tree/master/0242-valid-anagram) |
+| [0383-ransom-note](https://github.com/saipattnaik24cse-alt/leetcode/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/saipattnaik24cse-alt/leetcode/tree/master/0392-is-subsequence) |
 | [0567-permutation-in-string](https://github.com/saipattnaik24cse-alt/leetcode/tree/master/0567-permutation-in-string) |
 ## Two Pointers
@@ -104,4 +106,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0567-permutation-in-string](https://github.com/saipattnaik24cse-alt/leetcode/tree/master/0567-permutation-in-string) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/saipattnaik24cse-alt/leetcode/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
+## Counting
+|  |
+| ------- |
+| [0383-ransom-note](https://github.com/saipattnaik24cse-alt/leetcode/tree/master/0383-ransom-note) |
 <!---LeetCode Topics End-->
