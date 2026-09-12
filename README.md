@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/saipattnaik24cse-alt/leetcode/tree/master/0001-two-sum) |
 | [0027-remove-element](https://github.com/saipattnaik24cse-alt/leetcode/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/saipattnaik24cse-alt/leetcode/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/saipattnaik24cse-alt/leetcode/tree/master/0088-merge-sorted-array) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/saipattnaik24cse-alt/leetcode/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/saipattnaik24cse-alt/leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/saipattnaik24cse-alt/leetcode/tree/master/0242-valid-anagram) |
 | [0525-contiguous-array](https://github.com/saipattnaik24cse-alt/leetcode/tree/master/0525-contiguous-array) |
