@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/saipattnaik24cse-alt/leetcode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/saipattnaik24cse-alt/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/saipattnaik24cse-alt/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0169-majority-element](https://github.com/saipattnaik24cse-alt/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/saipattnaik24cse-alt/leetcode/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/saipattnaik24cse-alt/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/saipattnaik24cse-alt/leetcode/tree/master/0283-move-zeroes) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/saipattnaik24cse-alt/leetcode/tree/master/0001-two-sum) |
+| [0169-majority-element](https://github.com/saipattnaik24cse-alt/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/saipattnaik24cse-alt/leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/saipattnaik24cse-alt/leetcode/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/saipattnaik24cse-alt/leetcode/tree/master/0383-ransom-note) |
@@ -48,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/saipattnaik24cse-alt/leetcode/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/saipattnaik24cse-alt/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/saipattnaik24cse-alt/leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/saipattnaik24cse-alt/leetcode/tree/master/0242-valid-anagram) |
 ## String
@@ -85,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/saipattnaik24cse-alt/leetcode/tree/master/0169-majority-element) |
 | [0307-range-sum-query-mutable](https://github.com/saipattnaik24cse-alt/leetcode/tree/master/0307-range-sum-query-mutable) |
 ## Design
 |  |
@@ -111,10 +115,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/saipattnaik24cse-alt/leetcode/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/saipattnaik24cse-alt/leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/saipattnaik24cse-alt/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 ## Queue
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/saipattnaik24cse-alt/leetcode/tree/master/0387-first-unique-character-in-a-string) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/saipattnaik24cse-alt/leetcode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
