@@ -5,6 +5,7 @@ class Solution:
 
         left = 1
         right = x // 2
+        ans = 0
 
         while left <= right:
             mid = (left + right) // 2
@@ -13,9 +14,10 @@ class Solution:
                 return mid
 
             elif mid * mid < x:
+                ans = mid
                 left = mid + 1
 
             else:
                 right = mid - 1
 
-        return right
+        return ans
