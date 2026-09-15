@@ -6,7 +6,7 @@ class Solution(object):
     def firstBadVersion(self, n):
         left = 1
         right = n
-        ans = n
+        ans = 0
 
         while left <= right:
 
