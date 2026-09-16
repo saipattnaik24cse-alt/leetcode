@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0525-contiguous-array](https://github.com/saipattnaik24cse-alt/leetcode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/saipattnaik24cse-alt/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/saipattnaik24cse-alt/leetcode/tree/master/0724-find-pivot-index) |
+| [0875-koko-eating-bananas](https://github.com/saipattnaik24cse-alt/leetcode/tree/master/0875-koko-eating-bananas) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/saipattnaik24cse-alt/leetcode/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 ## Prefix Sum
 |  |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/saipattnaik24cse-alt/leetcode/tree/master/0069-sqrtx) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/saipattnaik24cse-alt/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0278-first-bad-version](https://github.com/saipattnaik24cse-alt/leetcode/tree/master/0278-first-bad-version) |
+| [0875-koko-eating-bananas](https://github.com/saipattnaik24cse-alt/leetcode/tree/master/0875-koko-eating-bananas) |
 ## Stack
 |  |
 | ------- |
