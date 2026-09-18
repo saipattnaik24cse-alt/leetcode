@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/saipattnaik24cse-alt/leetcode/tree/master/0875-koko-eating-bananas) |
 | [0904-fruit-into-baskets](https://github.com/saipattnaik24cse-alt/leetcode/tree/master/0904-fruit-into-baskets) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/saipattnaik24cse-alt/leetcode/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
+| [3026-maximum-good-subarray-sum](https://github.com/saipattnaik24cse-alt/leetcode/tree/master/3026-maximum-good-subarray-sum) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0525-contiguous-array](https://github.com/saipattnaik24cse-alt/leetcode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/saipattnaik24cse-alt/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/saipattnaik24cse-alt/leetcode/tree/master/0724-find-pivot-index) |
+| [3026-maximum-good-subarray-sum](https://github.com/saipattnaik24cse-alt/leetcode/tree/master/3026-maximum-good-subarray-sum) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -62,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/saipattnaik24cse-alt/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/saipattnaik24cse-alt/leetcode/tree/master/0567-permutation-in-string) |
 | [0904-fruit-into-baskets](https://github.com/saipattnaik24cse-alt/leetcode/tree/master/0904-fruit-into-baskets) |
+| [3026-maximum-good-subarray-sum](https://github.com/saipattnaik24cse-alt/leetcode/tree/master/3026-maximum-good-subarray-sum) |
 ## Sorting
 |  |
 | ------- |
