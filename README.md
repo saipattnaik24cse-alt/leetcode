@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/saipattnaik24cse-alt/leetcode/tree/master/0724-find-pivot-index) |
 | [0875-koko-eating-bananas](https://github.com/saipattnaik24cse-alt/leetcode/tree/master/0875-koko-eating-bananas) |
 | [0904-fruit-into-baskets](https://github.com/saipattnaik24cse-alt/leetcode/tree/master/0904-fruit-into-baskets) |
+| [1094-car-pooling](https://github.com/saipattnaik24cse-alt/leetcode/tree/master/1094-car-pooling) |
 | [1109-corporate-flight-bookings](https://github.com/saipattnaik24cse-alt/leetcode/tree/master/1109-corporate-flight-bookings) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/saipattnaik24cse-alt/leetcode/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1480-running-sum-of-1d-array](https://github.com/saipattnaik24cse-alt/leetcode/tree/master/1480-running-sum-of-1d-array) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0525-contiguous-array](https://github.com/saipattnaik24cse-alt/leetcode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/saipattnaik24cse-alt/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/saipattnaik24cse-alt/leetcode/tree/master/0724-find-pivot-index) |
+| [1094-car-pooling](https://github.com/saipattnaik24cse-alt/leetcode/tree/master/1094-car-pooling) |
 | [1109-corporate-flight-bookings](https://github.com/saipattnaik24cse-alt/leetcode/tree/master/1109-corporate-flight-bookings) |
 | [1480-running-sum-of-1d-array](https://github.com/saipattnaik24cse-alt/leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [3026-maximum-good-subarray-sum](https://github.com/saipattnaik24cse-alt/leetcode/tree/master/3026-maximum-good-subarray-sum) |
@@ -78,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/saipattnaik24cse-alt/leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/saipattnaik24cse-alt/leetcode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/saipattnaik24cse-alt/leetcode/tree/master/0347-top-k-frequent-elements) |
+| [1094-car-pooling](https://github.com/saipattnaik24cse-alt/leetcode/tree/master/1094-car-pooling) |
 ## String
 |  |
 | ------- |
@@ -175,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/saipattnaik24cse-alt/leetcode/tree/master/0347-top-k-frequent-elements) |
+| [1094-car-pooling](https://github.com/saipattnaik24cse-alt/leetcode/tree/master/1094-car-pooling) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -195,4 +199,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/saipattnaik24cse-alt/leetcode/tree/master/0278-first-bad-version) |
+## Simulation
+|  |
+| ------- |
+| [1094-car-pooling](https://github.com/saipattnaik24cse-alt/leetcode/tree/master/1094-car-pooling) |
 <!---LeetCode Topics End-->
