@@ -4,25 +4,31 @@ class Solution:
         if len(s1) > len(s2):
             return False
 
-        count1 = [0] * 26
-        count2 = [0] * 26
+        s1_count = {}
+        window_count = {}
 
-        for char in s1:
-            count1[ord(char) - ord('a')] += 1
+        # Frequency of s1
+        for ch in s1:
+            s1_count[ch] = s1_count.get(ch, 0) + 1
 
-        for i in range(len(s1)):
-            count2[ord(s2[i]) - ord('a')] += 1
+        left = 0
 
-        if count1 == count2:
-            return True
+        for right in range(len(s2)):
 
-        for i in range(len(s1), len(s2)):
+            # Add new character
+            window_count[s2[right]] = window_count.get(s2[right], 0) + 1
 
-            count2[ord(s2[i]) - ord('a')] += 1
+            # If window becomes too large
+            if right - left + 1 > len(s1):
+                window_count[s2[left]] -= 1
 
-            count2[ord(s2[i - len(s1)]) - ord('a')] -= 1
+                if window_count[s2[left]] == 0:
+                    del window_count[s2[left]]
 
-            if count1 == count2:
+                left += 1
+
+            # Check permutation
+            if window_count == s1_count:
                 return True
 
         return False
