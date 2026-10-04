@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1109-corporate-flight-bookings](https://github.com/saipattnaik24cse-alt/leetcode/tree/master/1109-corporate-flight-bookings) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/saipattnaik24cse-alt/leetcode/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1480-running-sum-of-1d-array](https://github.com/saipattnaik24cse-alt/leetcode/tree/master/1480-running-sum-of-1d-array) |
+| [1572-matrix-diagonal-sum](https://github.com/saipattnaik24cse-alt/leetcode/tree/master/1572-matrix-diagonal-sum) |
 | [3026-maximum-good-subarray-sum](https://github.com/saipattnaik24cse-alt/leetcode/tree/master/3026-maximum-good-subarray-sum) |
 ## Prefix Sum
 |  |
@@ -230,4 +231,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/saipattnaik24cse-alt/leetcode/tree/master/0074-search-a-2d-matrix) |
+| [1572-matrix-diagonal-sum](https://github.com/saipattnaik24cse-alt/leetcode/tree/master/1572-matrix-diagonal-sum) |
 <!---LeetCode Topics End-->
