@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/saipattnaik24cse-alt/leetcode/tree/master/0904-fruit-into-baskets) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/saipattnaik24cse-alt/leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1094-car-pooling](https://github.com/saipattnaik24cse-alt/leetcode/tree/master/1094-car-pooling) |
+| [1095-find-in-mountain-array](https://github.com/saipattnaik24cse-alt/leetcode/tree/master/1095-find-in-mountain-array) |
 | [1109-corporate-flight-bookings](https://github.com/saipattnaik24cse-alt/leetcode/tree/master/1109-corporate-flight-bookings) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/saipattnaik24cse-alt/leetcode/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1480-running-sum-of-1d-array](https://github.com/saipattnaik24cse-alt/leetcode/tree/master/1480-running-sum-of-1d-array) |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/saipattnaik24cse-alt/leetcode/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/saipattnaik24cse-alt/leetcode/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/saipattnaik24cse-alt/leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1095-find-in-mountain-array](https://github.com/saipattnaik24cse-alt/leetcode/tree/master/1095-find-in-mountain-array) |
 ## Stack
 |  |
 | ------- |
@@ -235,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/saipattnaik24cse-alt/leetcode/tree/master/0278-first-bad-version) |
+| [1095-find-in-mountain-array](https://github.com/saipattnaik24cse-alt/leetcode/tree/master/1095-find-in-mountain-array) |
 ## Simulation
 |  |
 | ------- |
@@ -253,4 +256,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/saipattnaik24cse-alt/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0867-transpose-matrix](https://github.com/saipattnaik24cse-alt/leetcode/tree/master/0867-transpose-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/saipattnaik24cse-alt/leetcode/tree/master/1572-matrix-diagonal-sum) |
+## Ternary Search
+|  |
+| ------- |
+| [1095-find-in-mountain-array](https://github.com/saipattnaik24cse-alt/leetcode/tree/master/1095-find-in-mountain-array) |
 <!---LeetCode Topics End-->
