@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0525-contiguous-array](https://github.com/saipattnaik24cse-alt/leetcode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/saipattnaik24cse-alt/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/saipattnaik24cse-alt/leetcode/tree/master/0643-maximum-average-subarray-i) |
+| [0704-binary-search](https://github.com/saipattnaik24cse-alt/leetcode/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/saipattnaik24cse-alt/leetcode/tree/master/0724-find-pivot-index) |
 | [0867-transpose-matrix](https://github.com/saipattnaik24cse-alt/leetcode/tree/master/0867-transpose-matrix) |
 | [0875-koko-eating-bananas](https://github.com/saipattnaik24cse-alt/leetcode/tree/master/0875-koko-eating-bananas) |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/saipattnaik24cse-alt/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0278-first-bad-version](https://github.com/saipattnaik24cse-alt/leetcode/tree/master/0278-first-bad-version) |
 | [0410-split-array-largest-sum](https://github.com/saipattnaik24cse-alt/leetcode/tree/master/0410-split-array-largest-sum) |
+| [0704-binary-search](https://github.com/saipattnaik24cse-alt/leetcode/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/saipattnaik24cse-alt/leetcode/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/saipattnaik24cse-alt/leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 ## Stack
