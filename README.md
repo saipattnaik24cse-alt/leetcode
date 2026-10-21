@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/saipattnaik24cse-alt/leetcode/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/saipattnaik24cse-alt/leetcode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/saipattnaik24cse-alt/leetcode/tree/master/0125-valid-palindrome) |
+| [0143-reorder-list](https://github.com/saipattnaik24cse-alt/leetcode/tree/master/0143-reorder-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/saipattnaik24cse-alt/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/saipattnaik24cse-alt/leetcode/tree/master/0283-move-zeroes) |
 | [0392-is-subsequence](https://github.com/saipattnaik24cse-alt/leetcode/tree/master/0392-is-subsequence) |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/saipattnaik24cse-alt/leetcode/tree/master/0042-trapping-rain-water) |
+| [0143-reorder-list](https://github.com/saipattnaik24cse-alt/leetcode/tree/master/0143-reorder-list) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -262,4 +264,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1095-find-in-mountain-array](https://github.com/saipattnaik24cse-alt/leetcode/tree/master/1095-find-in-mountain-array) |
+## Linked List
+|  |
+| ------- |
+| [0143-reorder-list](https://github.com/saipattnaik24cse-alt/leetcode/tree/master/0143-reorder-list) |
+## Recursion
+|  |
+| ------- |
+| [0143-reorder-list](https://github.com/saipattnaik24cse-alt/leetcode/tree/master/0143-reorder-list) |
 <!---LeetCode Topics End-->
