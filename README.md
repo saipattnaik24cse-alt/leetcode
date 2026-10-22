@@ -157,10 +157,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/saipattnaik24cse-alt/leetcode/tree/master/0042-trapping-rain-water) |
 | [0143-reorder-list](https://github.com/saipattnaik24cse-alt/leetcode/tree/master/0143-reorder-list) |
+| [2487-remove-nodes-from-linked-list](https://github.com/saipattnaik24cse-alt/leetcode/tree/master/2487-remove-nodes-from-linked-list) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/saipattnaik24cse-alt/leetcode/tree/master/0042-trapping-rain-water) |
+| [2487-remove-nodes-from-linked-list](https://github.com/saipattnaik24cse-alt/leetcode/tree/master/2487-remove-nodes-from-linked-list) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -268,8 +270,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0143-reorder-list](https://github.com/saipattnaik24cse-alt/leetcode/tree/master/0143-reorder-list) |
+| [2487-remove-nodes-from-linked-list](https://github.com/saipattnaik24cse-alt/leetcode/tree/master/2487-remove-nodes-from-linked-list) |
 ## Recursion
 |  |
 | ------- |
 | [0143-reorder-list](https://github.com/saipattnaik24cse-alt/leetcode/tree/master/0143-reorder-list) |
+| [2487-remove-nodes-from-linked-list](https://github.com/saipattnaik24cse-alt/leetcode/tree/master/2487-remove-nodes-from-linked-list) |
 <!---LeetCode Topics End-->
