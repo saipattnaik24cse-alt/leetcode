@@ -8,7 +8,7 @@ class Solution:
         if not head or not head.next:
             return
 
-        # Step 1: Find the middle
+      
         slow = head
         fast = head
 
@@ -16,7 +16,6 @@ class Solution:
             slow = slow.next
             fast = fast.next.next
 
-        # Step 2: Reverse the second half
         second = slow.next
         slow.next = None
         prev = None
@@ -27,7 +26,7 @@ class Solution:
             prev = second
             second = next_node
 
-        # Step 3: Merge the two halves
+       
         first = head
         second = prev
 
