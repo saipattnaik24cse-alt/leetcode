@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/saipattnaik24cse-alt/leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/saipattnaik24cse-alt/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/saipattnaik24cse-alt/leetcode/tree/master/0392-is-subsequence) |
+| [0394-decode-string](https://github.com/saipattnaik24cse-alt/leetcode/tree/master/0394-decode-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/saipattnaik24cse-alt/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/saipattnaik24cse-alt/leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/saipattnaik24cse-alt/leetcode/tree/master/0567-permutation-in-string) |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/saipattnaik24cse-alt/leetcode/tree/master/0042-trapping-rain-water) |
 | [0143-reorder-list](https://github.com/saipattnaik24cse-alt/leetcode/tree/master/0143-reorder-list) |
 | [0155-min-stack](https://github.com/saipattnaik24cse-alt/leetcode/tree/master/0155-min-stack) |
+| [0394-decode-string](https://github.com/saipattnaik24cse-alt/leetcode/tree/master/0394-decode-string) |
 | [0682-baseball-game](https://github.com/saipattnaik24cse-alt/leetcode/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/saipattnaik24cse-alt/leetcode/tree/master/0735-asteroid-collision) |
 | [2487-remove-nodes-from-linked-list](https://github.com/saipattnaik24cse-alt/leetcode/tree/master/2487-remove-nodes-from-linked-list) |
@@ -288,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0143-reorder-list](https://github.com/saipattnaik24cse-alt/leetcode/tree/master/0143-reorder-list) |
+| [0394-decode-string](https://github.com/saipattnaik24cse-alt/leetcode/tree/master/0394-decode-string) |
 | [2487-remove-nodes-from-linked-list](https://github.com/saipattnaik24cse-alt/leetcode/tree/master/2487-remove-nodes-from-linked-list) |
 ## Bracket Sequences
 |  |
