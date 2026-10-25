@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/saipattnaik24cse-alt/leetcode/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/saipattnaik24cse-alt/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/saipattnaik24cse-alt/leetcode/tree/master/0128-longest-consecutive-sequence) |
+| [0141-linked-list-cycle](https://github.com/saipattnaik24cse-alt/leetcode/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/saipattnaik24cse-alt/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/saipattnaik24cse-alt/leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/saipattnaik24cse-alt/leetcode/tree/master/0242-valid-anagram) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/saipattnaik24cse-alt/leetcode/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/saipattnaik24cse-alt/leetcode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/saipattnaik24cse-alt/leetcode/tree/master/0125-valid-palindrome) |
+| [0141-linked-list-cycle](https://github.com/saipattnaik24cse-alt/leetcode/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/saipattnaik24cse-alt/leetcode/tree/master/0143-reorder-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/saipattnaik24cse-alt/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/saipattnaik24cse-alt/leetcode/tree/master/0283-move-zeroes) |
@@ -273,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/saipattnaik24cse-alt/leetcode/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/saipattnaik24cse-alt/leetcode/tree/master/0143-reorder-list) |
 | [2487-remove-nodes-from-linked-list](https://github.com/saipattnaik24cse-alt/leetcode/tree/master/2487-remove-nodes-from-linked-list) |
 ## Recursion
@@ -284,4 +287,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/saipattnaik24cse-alt/leetcode/tree/master/0020-valid-parentheses) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/saipattnaik24cse-alt/leetcode/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
