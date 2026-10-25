@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1539-kth-missing-positive-number](https://github.com/saipattnaik24cse-alt/leetcode/tree/master/1539-kth-missing-positive-number) |
 | [1572-matrix-diagonal-sum](https://github.com/saipattnaik24cse-alt/leetcode/tree/master/1572-matrix-diagonal-sum) |
 | [2187-minimum-time-to-complete-trips](https://github.com/saipattnaik24cse-alt/leetcode/tree/master/2187-minimum-time-to-complete-trips) |
+| [2226-maximum-candies-allocated-to-k-children](https://github.com/saipattnaik24cse-alt/leetcode/tree/master/2226-maximum-candies-allocated-to-k-children) |
 | [2594-minimum-time-to-repair-cars](https://github.com/saipattnaik24cse-alt/leetcode/tree/master/2594-minimum-time-to-repair-cars) |
 | [3026-maximum-good-subarray-sum](https://github.com/saipattnaik24cse-alt/leetcode/tree/master/3026-maximum-good-subarray-sum) |
 ## Prefix Sum
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/saipattnaik24cse-alt/leetcode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/saipattnaik24cse-alt/leetcode/tree/master/1539-kth-missing-positive-number) |
 | [2187-minimum-time-to-complete-trips](https://github.com/saipattnaik24cse-alt/leetcode/tree/master/2187-minimum-time-to-complete-trips) |
+| [2226-maximum-candies-allocated-to-k-children](https://github.com/saipattnaik24cse-alt/leetcode/tree/master/2226-maximum-candies-allocated-to-k-children) |
 | [2594-minimum-time-to-repair-cars](https://github.com/saipattnaik24cse-alt/leetcode/tree/master/2594-minimum-time-to-repair-cars) |
 ## Stack
 |  |
