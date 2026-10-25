@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/saipattnaik24cse-alt/leetcode/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/saipattnaik24cse-alt/leetcode/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/saipattnaik24cse-alt/leetcode/tree/master/0724-find-pivot-index) |
+| [0735-asteroid-collision](https://github.com/saipattnaik24cse-alt/leetcode/tree/master/0735-asteroid-collision) |
 | [0867-transpose-matrix](https://github.com/saipattnaik24cse-alt/leetcode/tree/master/0867-transpose-matrix) |
 | [0875-koko-eating-bananas](https://github.com/saipattnaik24cse-alt/leetcode/tree/master/0875-koko-eating-bananas) |
 | [0904-fruit-into-baskets](https://github.com/saipattnaik24cse-alt/leetcode/tree/master/0904-fruit-into-baskets) |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/saipattnaik24cse-alt/leetcode/tree/master/0143-reorder-list) |
 | [0155-min-stack](https://github.com/saipattnaik24cse-alt/leetcode/tree/master/0155-min-stack) |
 | [0682-baseball-game](https://github.com/saipattnaik24cse-alt/leetcode/tree/master/0682-baseball-game) |
+| [0735-asteroid-collision](https://github.com/saipattnaik24cse-alt/leetcode/tree/master/0735-asteroid-collision) |
 | [2487-remove-nodes-from-linked-list](https://github.com/saipattnaik24cse-alt/leetcode/tree/master/2487-remove-nodes-from-linked-list) |
 ## Monotonic Stack
 |  |
@@ -256,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0682-baseball-game](https://github.com/saipattnaik24cse-alt/leetcode/tree/master/0682-baseball-game) |
+| [0735-asteroid-collision](https://github.com/saipattnaik24cse-alt/leetcode/tree/master/0735-asteroid-collision) |
 | [0867-transpose-matrix](https://github.com/saipattnaik24cse-alt/leetcode/tree/master/0867-transpose-matrix) |
 | [1094-car-pooling](https://github.com/saipattnaik24cse-alt/leetcode/tree/master/1094-car-pooling) |
 ## Greedy
