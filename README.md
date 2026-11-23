@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/saipattnaik24cse-alt/leetcode/tree/master/0042-trapping-rain-water) |
+| [0070-climbing-stairs](https://github.com/saipattnaik24cse-alt/leetcode/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/saipattnaik24cse-alt/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0392-is-subsequence](https://github.com/saipattnaik24cse-alt/leetcode/tree/master/0392-is-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/saipattnaik24cse-alt/leetcode/tree/master/0410-split-array-largest-sum) |
@@ -255,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/saipattnaik24cse-alt/leetcode/tree/master/0048-rotate-image) |
 | [0069-sqrtx](https://github.com/saipattnaik24cse-alt/leetcode/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/saipattnaik24cse-alt/leetcode/tree/master/0070-climbing-stairs) |
 ## Newton's Method
 |  |
 | ------- |
@@ -308,4 +310,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/saipattnaik24cse-alt/leetcode/tree/master/0141-linked-list-cycle) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/saipattnaik24cse-alt/leetcode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
