@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/saipattnaik24cse-alt/leetcode/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/saipattnaik24cse-alt/leetcode/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/saipattnaik24cse-alt/leetcode/tree/master/0049-group-anagrams) |
+| [0063-unique-paths-ii](https://github.com/saipattnaik24cse-alt/leetcode/tree/master/0063-unique-paths-ii) |
 | [0073-set-matrix-zeroes](https://github.com/saipattnaik24cse-alt/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/saipattnaik24cse-alt/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/saipattnaik24cse-alt/leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/saipattnaik24cse-alt/leetcode/tree/master/0042-trapping-rain-water) |
+| [0063-unique-paths-ii](https://github.com/saipattnaik24cse-alt/leetcode/tree/master/0063-unique-paths-ii) |
 | [0070-climbing-stairs](https://github.com/saipattnaik24cse-alt/leetcode/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/saipattnaik24cse-alt/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0392-is-subsequence](https://github.com/saipattnaik24cse-alt/leetcode/tree/master/0392-is-subsequence) |
@@ -282,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/saipattnaik24cse-alt/leetcode/tree/master/0048-rotate-image) |
+| [0063-unique-paths-ii](https://github.com/saipattnaik24cse-alt/leetcode/tree/master/0063-unique-paths-ii) |
 | [0073-set-matrix-zeroes](https://github.com/saipattnaik24cse-alt/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/saipattnaik24cse-alt/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0867-transpose-matrix](https://github.com/saipattnaik24cse-alt/leetcode/tree/master/0867-transpose-matrix) |
