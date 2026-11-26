@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0867-transpose-matrix](https://github.com/saipattnaik24cse-alt/leetcode/tree/master/0867-transpose-matrix) |
 | [0875-koko-eating-bananas](https://github.com/saipattnaik24cse-alt/leetcode/tree/master/0875-koko-eating-bananas) |
 | [0904-fruit-into-baskets](https://github.com/saipattnaik24cse-alt/leetcode/tree/master/0904-fruit-into-baskets) |
+| [0994-rotting-oranges](https://github.com/saipattnaik24cse-alt/leetcode/tree/master/0994-rotting-oranges) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/saipattnaik24cse-alt/leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1094-car-pooling](https://github.com/saipattnaik24cse-alt/leetcode/tree/master/1094-car-pooling) |
 | [1095-find-in-mountain-array](https://github.com/saipattnaik24cse-alt/leetcode/tree/master/1095-find-in-mountain-array) |
@@ -288,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/saipattnaik24cse-alt/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/saipattnaik24cse-alt/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0867-transpose-matrix](https://github.com/saipattnaik24cse-alt/leetcode/tree/master/0867-transpose-matrix) |
+| [0994-rotting-oranges](https://github.com/saipattnaik24cse-alt/leetcode/tree/master/0994-rotting-oranges) |
 | [1572-matrix-diagonal-sum](https://github.com/saipattnaik24cse-alt/leetcode/tree/master/1572-matrix-diagonal-sum) |
 ## Ternary Search
 |  |
@@ -325,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/saipattnaik24cse-alt/leetcode/tree/master/0102-binary-tree-level-order-traversal) |
+| [0994-rotting-oranges](https://github.com/saipattnaik24cse-alt/leetcode/tree/master/0994-rotting-oranges) |
 ## Binary Tree
 |  |
 | ------- |
